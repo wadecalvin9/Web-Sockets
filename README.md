@@ -1,5 +1,7 @@
 # WebSocket Chat Application
 
+Visit Live url at https://wadecalvin9.github.io/Web-Sockets/
+
 A simple, real-time chat application built with Node.js and Native WebSockets. This project demonstrates how to create a bi-directional communication channel between a client (browser) and a server.
 
 ## Features
@@ -21,6 +23,7 @@ A simple, real-time chat application built with Node.js and Native WebSockets. T
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
+- you can customize it as you want right now it just returns an echo of your message from the server you can create rooms and have realtime communication between individuals or groups 
 
 ### Prerequisites
 
@@ -78,3 +81,5 @@ The server checks for a `PORT` environment variable. You can specify it in a `.e
 - `server.js`: The main entry point for the Node.js WebSocket server. Handles connections and message broadcasting.
 - `index.html`: The frontend client containing the HTML structure, CSS styles, and client-side JavaScript logic.
 - `package.json`: Project metadata and dependencies.
+
+
