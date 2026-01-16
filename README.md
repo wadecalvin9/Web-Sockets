@@ -8,7 +8,7 @@ A simple, real-time chat application built with Node.js and Native WebSockets. T
 
 - **Real-time Communication**: Messages are delivered instantly between the server and connected clients.
 - **Connection Status**: Visual indicators show real-time connection status (Connecting, Connected, Disconnected).
-- **Responsive Design**: A clean, dark-themed UI that works well on different screen sizes.
+- **Responsive Design**: A clean, darkthemed UI that works well on different screen sizes.
 - **Interactive UI**:
     - Message history with distinct styling for client and server messages.
     - Auto-scrolling to the latest message.
